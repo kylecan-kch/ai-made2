@@ -1,0 +1,6 @@
+{
+  "name": "合约交易快速入门",
+  "description": "专为新手打造的加密货币合约交易互动学习与模拟平台，30分钟掌握杠杆、做多做空、强平与风险管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
